@@ -1,0 +1,20 @@
+{
+  "name": "websocketjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1",
+    "ws": "^8.16.0"
+  }
+}
